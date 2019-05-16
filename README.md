@@ -26,3 +26,7 @@ l1_prediction.csv, rf_prediction.csv, xgb_prediction.csv
  - XGBoost
  - Linear Regression
  - Random Forrest
+
+
+## Web
+Prediction web: http://ysl19941210.pythonanywhere.com/
