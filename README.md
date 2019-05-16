@@ -16,9 +16,12 @@ l1_prediction.csv, rf_prediction.csv, xgb_prediction.csv
 
 ## Data Preparation
  - BigQuery Public Dataset
-    1,000,000 randomly selected data from 'bigquery-public-data.new_york.tlc_yellow_trips_2016'
+ 
+    1,000,000 randomly selected data from 'bigquery-public-data.new_york.tlc_yellow_trips_2016';
     Weather data from 'bigquery-public-data.noaa_gsod.gsod2016'
+    
  - Apply PCA to longitude and latitude pairs
+ 
 ## Model
  - XGBoost
  - Linear Regression
