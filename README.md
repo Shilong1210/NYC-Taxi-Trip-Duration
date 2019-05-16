@@ -32,8 +32,8 @@ l1_prediction.csv, rf_prediction.csv, xgb_prediction.csv
 Prediction web: http://ysl19941210.pythonanywhere.com/  
 Example:  
 Pickup datetime: 2015-11-08 02:22:25+00:00  
-Pickup longitude: 40.733608  
-Pickup latitude: -74.003098  
-Dropoff longitude: 40.836803  
-Dropoff latitude: -73.941643  
+Pickup longitude: -74.003098  
+Pickup latitude: 40.733608  
+Dropoff longitude: -73.941643   
+Dropoff latitude: 40.836803 
 Passenger count: 1
